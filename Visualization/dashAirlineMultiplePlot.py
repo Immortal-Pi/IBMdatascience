@@ -89,4 +89,5 @@ def compute_info(airline_data, entered_year):
 # compute_info(data,2012)
 # get_graph(data,2012)
 
-app.run_server(debug='True',port=3004)
+app.run_server(debug='True',port=3005)
+
